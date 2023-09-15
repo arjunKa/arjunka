@@ -1,5 +1,5 @@
-### Hi there 👋 I'm [Arjun Kaura](https://arjunkaura.com/), 
-a Software Engineering student in my final year with 2 years of software internship experience; previously worked at Amazon to implement features to
+### Hi there 👋 I'm [Arjun Kaura](https://arjunkaura.com/). 
+I'm a Software Engineering student in my final year with 2 years of software internship experience; previously worked at Amazon to implement features to
 improve Alexa calling, & developed software solutions to improve efficiency at Toronto Hydro. 
 I am skilled in software development using langauges such as Python, Java, C++, C#, & JavaScript. I'm passionate about developing apps and software solutions to improve services as well as create new ones.
 
