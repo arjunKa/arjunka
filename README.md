@@ -4,7 +4,7 @@ improve Alexa calling, & developed software solutions to improve efficiency at T
 I am skilled in software development using langauges such as Python, Java, C++, C#, & JavaScript. I'm passionate about developing apps and software solutions to improve services as well as create new ones.
 
 📫 How to reach me:
- - [email](mailto:arjkaura@gmail.com)
+ - [email](mailto:arjkaura@outlook.com)
  - [LinkedIn](https://www.linkedin.com/in/arjun-kaura/)
 
 
