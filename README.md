@@ -1,7 +1,7 @@
 ## [Hi there, I'm Arjun Kaura](https://arjunkaura.com/). 
-I'm a Software Engineering graduate with 3 years of software internship experience; previously worked at Amazon to implement features to
+I'm a Software Engineering graduate with 3+ years of software experience; I currently am developing microservices for client facing software. Previously worked at Amazon to implement features to
 improve Alexa calling, at BlackBerry to develop ML features for face recognition software, & developed software solutions to improve efficiency at Toronto Hydro. 
-I am skilled in software development using langauges such as Python, Java, C++, C#, & JavaScript. I'm passionate about developing apps and software solutions to improve services as well as create new ones.
+I am skilled in software development using langauges such as Python, Java, C++, C#, & JavaScript.
 
 📫 How to reach me:
  - [email](mailto:arjkaura@outlook.com)
