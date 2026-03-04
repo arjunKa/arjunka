@@ -1,7 +1,5 @@
 ## [Hi there, I'm Arjun Kaura](https://arjunkaura.com/). 
-I'm a Software Engineering graduate with 3+ years of software experience; I currently am developing microservices for client facing software. Previously worked at Amazon to implement features to
-improve Alexa calling, at BlackBerry to develop ML features for face recognition software, & developed software solutions to improve efficiency at Toronto Hydro. 
-I am skilled in software development using langauges such as Python, Java, C++, C#, & JavaScript.
+I’m a Software Engineering graduate with over 3 years of professional software development experience. Currently, I develop microservices for client-facing software in a distributed systems environment. Previously, I worked at Amazon implementing features to improve Alexa calling, at BlackBerry developing machine learning features for face recognition software, and at Toronto Hydro building software solutions to improve operational efficiency. I have experience across multiple programming languages, including Python, Java, C++, C#, and JavaScript.
 
 📫 How to reach me:
  - [email](mailto:arjkaura@outlook.com)
